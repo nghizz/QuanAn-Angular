@@ -16,12 +16,12 @@ import { DetailProductComponent } from './detail-product/detail-product.componen
     ServerModule,
   ],
   bootstrap: [
-    // HomepageComponent,
+    HomepageComponent,
     // OrderComponent,
     // OrderConfirmComponent,
     // LoginComponent,
     // RegisterComponent
-    DetailProductComponent
+    // DetailProductComponent
     
   ], // Bootstrap HomepageComponent
 })
